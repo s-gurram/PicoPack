@@ -1,0 +1,3 @@
+[submodule "jbrowse2"]
+	path = jbrowse2
+	url = /usr/local/var/www/jbrowse2
